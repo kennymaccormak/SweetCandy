@@ -141,6 +141,7 @@ body {
 .slide-1-title-box {
     text-align: center;
     margin-top: 4rem;
+    padding: 0 90px;
     position: relative;
     z-index: 1500;
 }
@@ -168,7 +169,7 @@ body {
     margin-top: -15rem;
     position: absolute;
     width: 460px;
-    height: 624px;
+    height: 39rem;
     left: 50%;
     top: 50%;
 }
@@ -180,18 +181,19 @@ body {
 }
 
 .layout-bg {
+    margin-left: -5.4rem;
     overflow: hidden;
-    width: 174px;
-    height: 280px;
-    top: 162px;
-    left: 142px;
+    width: 10.8rem;
+    height: 17.5rem;
+    top: 10.2rem;
+    left: 50%;
     z-index: 1105;
 }
 
 .layout-bg img {
     position: absolute;
     left: -31px;
-    top: 21px;
+    top: 1.3rem;
     width: 257px;
     height: auto;
 }
@@ -227,8 +229,8 @@ body {
     -webkit-background-size: contain;
     background-size: contain;
     width: 620px;
-    height: 477px;
-    top: 22px;
+    height: 29.81rem;
+    top: 1.375rem;
     left: -81px;
     z-index: 1115;
 }
@@ -238,27 +240,30 @@ body {
 }
 
 .entered-form {
-    margin-left: -200px;
+    text-align: center;
+    padding: 0 90px;
     position: absolute;
-    width: 400px;
+    width: 100%;
     bottom: 90px;
-    left: 50%;
+    left: 0;
     z-index: 1200;
 }
 
 .entered-form__group {
     position: relative;
+    max-width: 400px;
+    margin: 0 auto;
 }
 
 .entered-form__input {
-
+    max-width: 400px;
 }
 
 .entered-form__button {
     position: absolute;
     top: 0;
     right: 20px;
-
+    z-index: 1220;
 }
 
 .i-key--rotate {
@@ -274,6 +279,7 @@ body {
     right: 5px;
     width: 74px;
     height: 74px;
+    z-index: 1210;
 }
 
 .keys-shine--change-height {

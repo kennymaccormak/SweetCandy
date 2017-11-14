@@ -1,0 +1,76 @@
+/***********Nimbus************/
+@font-face {
+    font-family: 'Nimbus';
+    src: url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Med.eot');
+    src: url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Med.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Med.woff2') format('woff2'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Med.woff') format('woff'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Med.ttf') format('truetype'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Med.svg#NimbusRomNo9L-Med') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nimbus';
+    src: url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-MedIta.eot');
+    src: url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-MedIta.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-MedIta.woff2') format('woff2'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-MedIta.woff') format('woff'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-MedIta.ttf') format('truetype'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-MedIta.svg#NimbusRomNo9L-MedIta') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nimbus';
+    src: url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Reg.eot');
+    src: url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Reg.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Reg.woff2') format('woff2'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Reg.woff') format('woff'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Reg.ttf') format('truetype'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-Reg.svg#NimbusRomNo9L-Reg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nimbus';
+    src: url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-RegIta.eot');
+    src: url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-RegIta.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-RegIta.woff2') format('woff2'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-RegIta.woff') format('woff'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-RegIta.ttf') format('truetype'),
+    url('../fonts/nimbusRomanNo9l/NimbusRomNo9L-RegIta.svg#NimbusRomNo9L-RegIta') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/************Marck Script************/
+
+@font-face {
+    font-family: 'Marck Script';
+    src: url('../fonts/marckScript/MarckScript-Regular.eot');
+    src: url('../fonts/marckScript/MarckScript-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/marckScript/MarckScript-Regular.woff2') format('woff2'),
+    url('../fonts/marckScript/MarckScript-Regular.woff') format('woff'),
+    url('../fonts/marckScript/MarckScript-Regular.ttf') format('truetype'),
+    url('../fonts/marckScript/MarckScript-Regular.svg#MarckScript-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/***************Andantino***************/
+
+@font-face {
+    font-family: 'Andantino';
+    src: url('../fonts/andantinoScript/Andantinoscript.eot');
+    src: url('../fonts/andantinoScript/Andantinoscript.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/andantinoScript/Andantinoscript.woff2') format('woff2'),
+    url('../fonts/andantinoScript/Andantinoscript.woff') format('woff'),
+    url('../fonts/andantinoScript/Andantinoscript.ttf') format('truetype'),
+    url('../fonts/andantinoScript/Andantinoscript.svg#Andantinoscript') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

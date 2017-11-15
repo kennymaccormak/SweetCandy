@@ -477,7 +477,6 @@ body {
 }
 
 .slide-2__content {
-    overflow-y: auto;
     padding: 0 220px;
     position: absolute;
     width: 100%;
@@ -485,6 +484,13 @@ body {
     left: 0;
     top: 8rem;
     z-index: 905;
+}
+
+.slide-2-content__wrap {
+    margin: 0 auto;
+    overflow-y: auto;
+    max-height: 600px;
+    width: 95%;
 }
 
 .slide-2 h2 {
